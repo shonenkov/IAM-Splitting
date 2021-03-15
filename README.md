@@ -11,7 +11,7 @@ compared results using different distributions.
 So we would like to share all found splittings of IAM database.
 
 | Split     | Train     | Valid     | Test      |
-| :--- :    | :---:     | :---:     | :---:     |
+| :---:     | :---:     | :---:     | :---:     |
 | IAM-A     | 6161      | 966       | 2915      |
 | IAM-B     | 6482      | 976       | 2915      |
 | IAM-C     | 6161      | 940       | 1861      |
