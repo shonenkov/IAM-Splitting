@@ -23,9 +23,13 @@ So we would like to share found splittings of IAM database.
 If you have found any paper/work with these splittings of IAM, 
 we are glad to see issues with links on work for adding information in this section. Thank you :)
 
-| Name                                                                                                          | Splitting        |
-| :---                                                                                                          | :---:            |  
-| [Evaluating sequence-to-sequence models for handwritten text recognition.](https://arxiv.org/abs/1903.07377)  | IAM-A            |   
+| Name                                                                                                                                                                     | Splitting        |
+| :---                                                                                                                                                                     | :---:            |  
+| [Evaluating sequence-to-sequence models for handwritten text recognition.](https://arxiv.org/abs/1903.07377)                                                             | IAM-A            | 
+| [Handwriting Recognition with Large Multidimensional Long Short-Term Memory Recurrent Neural Networks](https://www.vision.rwth-aachen.de/media/papers/MDLSTM_final.pdf)  | IAM-B            |
+| [OrigamiNet: Weakly-Supervised, Segmentation-Free, One-Step, Full Page Text Recognition by learning to unfold](https://arxiv.org/pdf/2006.07491.pdf)                     | IAM-B            |
+| [End-to-end Handwritten Paragraph Text Recognition Using a Vertical Attention Network](https://arxiv.org/pdf/2012.03868.pdf)                                             | IAM-B            |
+| [Attention-based Fully Gated CNN-BGRU for Russian Handwritten Text](https://arxiv.org/pdf/2008.05373.pdf)                                                                | IAM-D            |
 
 
 ## Repo Authors & Contacts:
@@ -40,3 +44,4 @@ we are glad to see issues with links on work for adding information in this sect
 
 Thanks a lot Théodore Bluche for publishing [this resource](http://www.tbluche.com/resources.html) with IAM-B splitting and
 [Joan Puigcerver](https://github.com/jpuigcerver) for publishing IAM-A splitting [here](https://github.com/jpuigcerver/Laia/tree/master/egs/iam/data/part/lines/aachen). 
+Also we would like to express our gratefulness for authors for opening this problem in [this paper](https://arxiv.org/pdf/1903.07377.pdf).
