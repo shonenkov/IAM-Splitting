@@ -44,4 +44,4 @@ we are glad to see issues with links on work for adding information in this sect
 
 Thanks a lot Théodore Bluche for publishing [this resource](http://www.tbluche.com/resources.html) with IAM-B splitting and
 [Joan Puigcerver](https://github.com/jpuigcerver) for publishing IAM-A splitting [here](https://github.com/jpuigcerver/Laia/tree/master/egs/iam/data/part/lines/aachen). 
-Also we would like to express our gratefulness for authors for opening this problem in [this paper](https://arxiv.org/pdf/1903.07377.pdf).
+Also we would like to express our gratefulness for authors that opened this problem in [paper](https://arxiv.org/pdf/1903.07377.pdf).
